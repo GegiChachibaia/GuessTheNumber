@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Git Hub\\GuessTheNumber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5FD12DC-636E-4457-B010-D196D0BD36AF}|Guess the number\\Guess the number.csproj|c:\\users\\user\\desktop\\git hub\\guessthenumber\\guess the number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5FD12DC-636E-4457-B010-D196D0BD36AF}|Guess the number\\Guess the number.csproj|solutionrelative:guess the number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5FD12DC-636E-4457-B010-D196D0BD36AF}|Guess the number\\Guess the number.csproj|c:\\users\\user\\desktop\\git hub\\guessthenumber\\guess the number\\guess the number.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F5FD12DC-636E-4457-B010-D196D0BD36AF}|Guess the number\\Guess the number.csproj|solutionrelative:guess the number\\guess the number.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Git Hub\\GuessTheNumber\\Guess the number\\Program.cs",
+              "RelativeDocumentMoniker": "Guess the number\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Git Hub\\GuessTheNumber\\Guess the number\\Program.cs",
+              "RelativeToolTip": "Guess the number\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:19:25.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Guess the number",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Git Hub\\GuessTheNumber\\Guess the number\\Guess the number.csproj",
+              "RelativeDocumentMoniker": "Guess the number\\Guess the number.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Git Hub\\GuessTheNumber\\Guess the number\\Guess the number.csproj",
+              "RelativeToolTip": "Guess the number\\Guess the number.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-28T13:19:21.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
